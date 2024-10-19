@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Home  Booking (step 3)</name>
+   <tag></tag>
+   <elementGuidId>de04ddc7-0808-4f04-adcb-d2b43873cec3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='proj-breadcrumb']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Home / Booking (step 3)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9fbca40f-cf51-4905-9fce-828d179ca667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>proj-inlineblock</value>
+      <webElementGuid>73c928da-396c-4437-8179-150900ab5727</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home / Booking (step 3)</value>
+      <webElementGuid>424c7975-90c3-4d98-9a97-da3323faa552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;proj-breadcrumb&quot;)/div[@class=&quot;proj-inlinecontainer&quot;]/div[@class=&quot;proj-inlineblock&quot;]</value>
+      <webElementGuid>6b5bf1df-2822-4c7f-ba87-4ea15fd360d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='proj-breadcrumb']/div/div[2]</value>
+      <webElementGuid>49b8bb14-8d00-4585-9fbc-78af1716844b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Class'])[1]/preceding::div[3]</value>
+      <webElementGuid>7206dcf8-ce3f-48e6-9908-692d75001cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brazilian Jiu Jitsu'])[1]/preceding::div[3]</value>
+      <webElementGuid>03f73f9d-ac75-4e47-973d-264513299625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='/ Booking (step 3)']/parent::*</value>
+      <webElementGuid>7d5add2d-4824-4885-a242-a990453e1191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>66728e0c-efe1-4797-88f7-7540156df663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Home / Booking (step 3)' or . = 'Home / Booking (step 3)')]</value>
+      <webElementGuid>0b0c3cd1-af77-4274-a1b4-9c0a17a966f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

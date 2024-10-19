@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CalculateBMI-Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dd81c2c1-6e4d-4b7e-89c0-fb2f6a3e4971</testCaseGuid>
+</TestCaseEntity>

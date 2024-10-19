@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Calculate</name>
+   <tag></tag>
+   <elementGuidId>9d43e0cf-9ba2-486e-b9fd-8fa5e7c59243</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.qodef-btn-text-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Little or no Exercise/ desk job'])[2]/following::span[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Calculate  &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e636b27a-a7fb-49d2-8444-9007d3acae57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qodef-btn-text-inner</value>
+      <webElementGuid>c0e61bea-7f19-4852-b56e-f8da0a35c40a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Calculate</value>
+      <webElementGuid>19829807-5f27-45e7-ace2-87e676133671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio svg inlinesvg svgclippaths js_active  vc_desktop  vc_transform  vc_transform&quot;]/body[@class=&quot;home page-template page-template-full-width page-template-full-width-php page page-id-424 qodef-bmi-calculator-1.2 prowess-core-1.0.1 prowess-ver-1.2 qodef-grid-1300 qodef-content-is-behind-header qodef-dark-header qodef-sticky-header-on-scroll-up qodef-dropdown-animate-height qodef-header-standard qodef-menu-area-shadow-disable qodef-menu-area-in-grid-shadow-disable qodef-menu-area-border-disable qodef-menu-area-in-grid-border-disable qodef-logo-area-border-disable qodef-header-vertical-shadow-disable qodef-header-vertical-border-disable qodef-side-menu-slide-from-right qodef-default-mobile-header qodef-sticky-up-mobile-header wpb-js-composer js-comp-ver-5.5.2 vc_responsive qodef-fullscreen-search qodef-search-fade&quot;]/div[@class=&quot;qodef-wrapper&quot;]/div[@class=&quot;qodef-wrapper-inner&quot;]/div[@class=&quot;qodef-content&quot;]/div[@class=&quot;qodef-content-inner&quot;]/div[@class=&quot;qodef-full-width&quot;]/div[@class=&quot;qodef-full-width-inner&quot;]/div[@class=&quot;qodef-grid-row&quot;]/div[@class=&quot;qodef-page-content-holder qodef-grid-col-12&quot;]/div[@class=&quot;qodef-row-grid-section-wrapper&quot;]/div[@class=&quot;qodef-row-grid-section&quot;]/div[@class=&quot;vc_row wpb_row vc_row-fluid vc_custom_1520437889325&quot;]/div[@class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;qodef-bmi-calculator-holder qodef-grid-row qodef-grid-large-gutter qodef-bmi-calculator-without-border&quot;]/div[@class=&quot;qodef-bmic-form-holder qodef-grid-col-6&quot;]/form[@class=&quot;qodef-bmic-form&quot;]/div[@class=&quot;qodef-grid-row qodef-grid-small-gutter&quot;]/div[@class=&quot;qodef-grid-col-12&quot;]/button[@class=&quot;qodef-btn qodef-btn-small qodef-btn-solid qodef-btn-icon&quot;]/span[@class=&quot;qodef-btn-text&quot;]/span[@class=&quot;qodef-btn-text-inner&quot;]</value>
+      <webElementGuid>c66c7b0d-c749-4761-bfbd-d4f165ab7fb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Little or no Exercise/ desk job'])[2]/following::span[4]</value>
+      <webElementGuid>ea67d794-9e21-4e53-b7e0-4cac2ab8919c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[2]/following::span[10]</value>
+      <webElementGuid>c1d05693-bc9c-46fd-af00-d95c0ed47d03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Timetable'])[1]/preceding::span[5]</value>
+      <webElementGuid>7279c7cc-2f9c-4334-be61-264a4e82b9c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here'])[1]/preceding::span[6]</value>
+      <webElementGuid>86d371f9-fc13-447c-8058-5488529a0230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Calculate']/parent::*</value>
+      <webElementGuid>f6810c40-9ee8-4d5b-afc7-eca2e15a28bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span/span</value>
+      <webElementGuid>332f0b18-9c89-4199-ba84-8bf928cd35d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Calculate' or . = 'Calculate')]</value>
+      <webElementGuid>c18dde36-269c-4be6-9502-089c81c09507</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

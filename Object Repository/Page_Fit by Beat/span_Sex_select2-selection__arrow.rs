@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sex_select2-selection__arrow</name>
+   <tag></tag>
+   <elementGuidId>142e74a8-69cc-4ba1-8bb6-81d94c33b991</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2-selection__arrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sex'])[2]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Sex&quot;i >> span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e77738eb-177e-470d-902d-2eb431895fb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__arrow</value>
+      <webElementGuid>ceda6396-2087-405e-8fab-8b59391ff591</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>f65e56cd-e3fb-40a5-8c9d-405e18e9e0c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio svg inlinesvg svgclippaths js_active  vc_desktop  vc_transform  vc_transform&quot;]/body[@class=&quot;home page-template page-template-full-width page-template-full-width-php page page-id-424 qodef-bmi-calculator-1.2 prowess-core-1.0.1 prowess-ver-1.2 qodef-grid-1300 qodef-content-is-behind-header qodef-dark-header qodef-sticky-header-on-scroll-up qodef-dropdown-animate-height qodef-header-standard qodef-menu-area-shadow-disable qodef-menu-area-in-grid-shadow-disable qodef-menu-area-border-disable qodef-menu-area-in-grid-border-disable qodef-logo-area-border-disable qodef-header-vertical-shadow-disable qodef-header-vertical-border-disable qodef-side-menu-slide-from-right qodef-default-mobile-header qodef-sticky-up-mobile-header wpb-js-composer js-comp-ver-5.5.2 vc_responsive qodef-fullscreen-search qodef-search-fade&quot;]/div[@class=&quot;qodef-wrapper&quot;]/div[@class=&quot;qodef-wrapper-inner&quot;]/div[@class=&quot;qodef-content&quot;]/div[@class=&quot;qodef-content-inner&quot;]/div[@class=&quot;qodef-full-width&quot;]/div[@class=&quot;qodef-full-width-inner&quot;]/div[@class=&quot;qodef-grid-row&quot;]/div[@class=&quot;qodef-page-content-holder qodef-grid-col-12&quot;]/div[@class=&quot;qodef-row-grid-section-wrapper&quot;]/div[@class=&quot;qodef-row-grid-section&quot;]/div[@class=&quot;vc_row wpb_row vc_row-fluid vc_custom_1520437889325&quot;]/div[@class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;qodef-bmi-calculator-holder qodef-grid-row qodef-grid-large-gutter qodef-bmi-calculator-without-border&quot;]/div[@class=&quot;qodef-bmic-form-holder qodef-grid-col-6&quot;]/form[@class=&quot;qodef-bmic-form&quot;]/div[@class=&quot;qodef-grid-row qodef-grid-small-gutter&quot;]/div[@class=&quot;qodef-grid-col-6&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--below select2-container--open select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]/span[@class=&quot;select2-selection__arrow&quot;]</value>
+      <webElementGuid>2209787c-6f07-436d-a9d3-f2780bfaf73e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sex'])[2]/following::span[1]</value>
+      <webElementGuid>d7d40908-6484-4186-a908-7640eb555c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calculate Your BMI'])[1]/following::span[5]</value>
+      <webElementGuid>cd1b8ec6-7fee-44e9-91fc-ad389564e4eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select an activity factor:'])[2]/preceding::span[2]</value>
+      <webElementGuid>a37af318-5f8a-4966-bf56-f3c341693dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calculate'])[1]/preceding::span[8]</value>
+      <webElementGuid>fc370775-b825-4891-9530-0564c7fb07d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span[2]</value>
+      <webElementGuid>63e2d644-dc60-436b-b6ff-9040cbb29309</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

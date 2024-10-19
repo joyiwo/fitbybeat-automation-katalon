@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select-class_Brazilian_Jiu_Jitsu</name>
+   <tag></tag>
+   <elementGuidId>6a221322-92d9-4009-b9e5-1fbe847d8d8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='class_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#class_id</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#class_id</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>81d9ec22-16cb-4722-8669-92016586c5aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control-border</value>
+      <webElementGuid>2fb7ab71-829b-453d-aea1-78df6c7e3c82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>class_id</value>
+      <webElementGuid>ca3045ca-21d1-4547-80f2-51824c2ae1b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>class_id</value>
+      <webElementGuid>566092fb-0f2f-4d1e-b222-53aeb6b4152d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+								Select class 
+								Brazilian Jiu Jitsu (IDR 150000)Fat Burner (IDR 85000)Hatha Yoga (IDR 85000)Hot Yoga (IDR 100000)Judo (IDR 125000)Vinyasa Yoga (IDR 85000)Yin Yoga (IDR 85000)
+							</value>
+      <webElementGuid>00599864-4dcc-4f08-ac59-58e8258d7d57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;class_id&quot;)</value>
+      <webElementGuid>e215c913-de0c-4a06-aa1f-70da986e4739</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='class_id']</value>
+      <webElementGuid>0e4ac4de-52fd-4c04-9a46-626436380af7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='proj-landing']/form/div/div/select</value>
+      <webElementGuid>2b54355b-cf74-4069-8b11-44afbee6fe40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose a class'])[1]/following::select[1]</value>
+      <webElementGuid>1705c0d9-0f6e-478c-a5cd-9c2c0e99832e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pick available date'])[1]/preceding::select[1]</value>
+      <webElementGuid>857faf2d-43aa-4f28-bea7-ce128187cd39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pick available hour'])[1]/preceding::select[2]</value>
+      <webElementGuid>cb1e09e1-a2b7-4d8b-8da7-abb4f67a355a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>1131b612-4cd3-4547-924c-3af80a648be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'class_id' and @id = 'class_id' and (text() = '
+								Select class 
+								Brazilian Jiu Jitsu (IDR 150000)Fat Burner (IDR 85000)Hatha Yoga (IDR 85000)Hot Yoga (IDR 100000)Judo (IDR 125000)Vinyasa Yoga (IDR 85000)Yin Yoga (IDR 85000)
+							' or . = '
+								Select class 
+								Brazilian Jiu Jitsu (IDR 150000)Fat Burner (IDR 85000)Hatha Yoga (IDR 85000)Hot Yoga (IDR 100000)Judo (IDR 125000)Vinyasa Yoga (IDR 85000)Yin Yoga (IDR 85000)
+							')]</value>
+      <webElementGuid>496b8488-9799-4479-85eb-6192d8ee04a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

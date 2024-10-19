@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Back to home</name>
+   <tag></tag>
+   <elementGuidId>a2ec7642-9dda-48f7-a01d-d8a8aaf98f7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='proj-landing']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.proj-btn.blue.full.proj-uppercase.proj-textbold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Back to home&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9e6fd474-6103-4819-a223-5f8808beee06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://booking.fitbybeat.com/booking/</value>
+      <webElementGuid>ae16354d-491a-4311-a0f7-5a7e0eaa3d8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>proj-btn blue full proj-uppercase proj-textbold</value>
+      <webElementGuid>452e411e-dd3f-47dc-956c-2c29bc5113b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back to home</value>
+      <webElementGuid>e2814489-4701-49c8-8c57-32a9eca901b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;proj-landing&quot;)/a[@class=&quot;proj-btn blue full proj-uppercase proj-textbold&quot;]</value>
+      <webElementGuid>1dff14c4-ab44-43f8-8c59-d40f986faf19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='proj-landing']/a</value>
+      <webElementGuid>86d36a8e-b571-4357-b781-ae9e4ae942e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Back to home')]</value>
+      <webElementGuid>4b0b0249-4986-4c98-b446-15f663efb20d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No towel and bring your own padlock'])[1]/following::a[1]</value>
+      <webElementGuid>695f265d-2d70-4b8d-b86e-9d9ffdb1f78d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment must be completed 1 day earlier'])[1]/following::a[1]</value>
+      <webElementGuid>059c7a3e-7662-4030-bef7-1ba42603892d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Back to home']/parent::*</value>
+      <webElementGuid>d5b7c8fb-13f7-4ba7-b36b-05ea3ff0048b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://booking.fitbybeat.com/booking/')]</value>
+      <webElementGuid>64a6d1a4-27aa-4dd8-be33-48e9fe134001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>509990cd-6561-4c8e-b2c6-c2fa8bb8050a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://booking.fitbybeat.com/booking/' and (text() = 'Back to home' or . = 'Back to home')]</value>
+      <webElementGuid>69ff808c-02d9-4be0-9330-210fc931225c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
